@@ -1,6 +1,7 @@
-def suma(x,y):
-    return x + y
 
-respuesta = suma(5,6)
 
-print(respuesta) 
+def resta(x,y):
+    return x - y
+
+respuesta = resta(5-7)
+print("resultado es" + str(respuesta))
