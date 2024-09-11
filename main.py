@@ -1,5 +1,9 @@
 def suma(x,y):
+    """
+    Esto es una suma
+    """
     return x + y
+
 
 def resta(x,y):
     return x - y
