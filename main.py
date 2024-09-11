@@ -2,7 +2,7 @@ def suma(x,y):
     """
     Esto es una sumagit 
     """
-    return x + y
+    return x * y
 
 
 def resta(x,y):
