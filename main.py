@@ -11,6 +11,10 @@ def resta(x,y):
     """
     return x - y
 
+def divicion(x,y):
+    #es divicion
+    return x/y
+
 respuesta = resta(5-7)
 resultado = suma(18+18)
 print("resultado es" + str(respuesta))
